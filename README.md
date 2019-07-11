@@ -1,1 +1,1 @@
-# Simple news Letter app using node js and express
+# Simple news Letter app using node.js and express.js
